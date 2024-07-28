@@ -3,6 +3,9 @@ module.exports = {
   content: ['.index.html', './src/**/*.{js,ts,jsx,tsx}'],
   theme: {
     extend: {
+      backgroundImage:{
+        'beachImage': 'url(./src/assets/background.jpg)'
+      },
       colors: {
         'primary': '#3e5df9',
         'primary-focus': '#354ed0',
