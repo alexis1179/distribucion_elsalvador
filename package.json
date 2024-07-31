@@ -1,9 +1,9 @@
 {
   "name": "distribucion_elsalvador",
   "version": "1.0.0",
-  "description": "An Electron application with React and TypeScript",
+  "description": "A desktop aplication to know El Salvador's territorial distribution",
   "main": "./out/main/index.js",
-  "author": "example.com",
+  "author": "alexis1179",
   "homepage": "https://electron-vite.org",
   "scripts": {
     "format": "prettier --write .",
