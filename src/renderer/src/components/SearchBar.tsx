@@ -15,9 +15,8 @@ function SearchBar({
     e.preventDefault()
     setInput(e.target.value.toLowerCase())
   }
-  addEventListener("keypress", (event: KeyboardEvent) => {
-    if(event.key == "Enter")
-      searchData()
+  addEventListener('keypress', (event: KeyboardEvent) => {
+    if (event.key == 'Enter') searchData()
   })
 
   const searchData = (): void => {

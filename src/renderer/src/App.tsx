@@ -5,6 +5,7 @@ import SearchBar from './components/SearchBar'
 function App(): JSX.Element {
   const [municipios, setMunicipios] = useState([
     {
+      Id: 0,
       Departamento: '',
       Municipio: '',
       Distrito: ''
@@ -34,7 +35,7 @@ function App(): JSX.Element {
           </thead>
           <tbody>
             {municipios.map((m) => (
-              <tr key={m.Distrito}>
+              <tr key={m.Id}>
                 <td>{m.Distrito}</td>
                 <td>{m.Municipio}</td>
                 <td>{m.Departamento}</td>

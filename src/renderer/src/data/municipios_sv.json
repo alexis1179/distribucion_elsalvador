@@ -1,1310 +1,1572 @@
 [
  {
+  "Id": 1,
   "Departamento": "Ahuachapán",
   "Municipio": "Ahuachapán Centro",
   "Distrito": "Ahuachapán"
  },
  {
+  "Id": 2,
   "Departamento": "Ahuachapán",
   "Municipio": "Ahuachapán Centro",
   "Distrito": "Apaneca"
  },
  {
+  "Id": 3,
   "Departamento": "Ahuachapán",
   "Municipio": "Ahuachapán Norte",
   "Distrito": "Atiquizaya"
  },
  {
+  "Id": 4,
   "Departamento": "Ahuachapán",
   "Municipio": "Ahuachapán Centro",
   "Distrito": "Concepción De Ataco"
  },
  {
+  "Id": 5,
   "Departamento": "Ahuachapán",
   "Municipio": "Ahuachapán Norte",
   "Distrito": "El Refugio"
  },
  {
+  "Id": 6,
   "Departamento": "Ahuachapán",
   "Municipio": "Ahuachapán Sur",
   "Distrito": "Guaymango"
  },
  {
+  "Id": 7,
   "Departamento": "Ahuachapán",
   "Municipio": "Ahuachapán Sur",
   "Distrito": "Jujutla"
  },
  {
+  "Id": 8,
   "Departamento": "Ahuachapán",
   "Municipio": "Ahuachapán Sur",
   "Distrito": "San Francisco Menéndez"
  },
  {
+  "Id": 9,
   "Departamento": "Ahuachapán",
   "Municipio": "Ahuachapán Norte",
   "Distrito": "San Lorenzo"
  },
  {
+  "Id": 10,
   "Departamento": "Ahuachapán",
   "Municipio": "Ahuachapán Sur",
   "Distrito": "San Pedro Puxtla"
  },
  {
+  "Id": 11,
   "Departamento": "Ahuachapán",
   "Municipio": "Ahuachapán Centro",
   "Distrito": "Tacuba"
  },
  {
+  "Id": 12,
   "Departamento": "Ahuachapán",
   "Municipio": "Ahuachapán Norte",
   "Distrito": "Turín"
  },
  {
+  "Id": 13,
   "Departamento": "Cabañas",
   "Municipio": "Cabañas Oeste",
   "Distrito": "Cinquera"
  },
  {
+  "Id": 14,
   "Departamento": "Cabañas",
   "Municipio": "Cabañas Este",
   "Distrito": "Dolores"
  },
  {
+  "Id": 15,
   "Departamento": "Cabañas",
   "Municipio": "Cabañas Este",
   "Distrito": "Guacotecti"
  },
  {
+  "Id": 16,
   "Departamento": "Cabañas",
   "Municipio": "Cabañas Oeste",
   "Distrito": "Ilobasco"
  },
  {
+  "Id": 17,
   "Departamento": "Cabañas",
   "Municipio": "Cabañas Oeste",
   "Distrito": "Jutiapa"
  },
  {
+  "Id": 18,
   "Departamento": "Cabañas",
   "Municipio": "Cabañas Este",
   "Distrito": "San Isidro"
  },
  {
+  "Id": 19,
   "Departamento": "Cabañas",
   "Municipio": "Cabañas Este",
   "Distrito": "Sensuntepeque"
  },
  {
+  "Id": 20,
   "Departamento": "Cabañas",
   "Municipio": "Cabañas Oeste",
   "Distrito": "Tejutepeque"
  },
  {
+  "Id": 21,
   "Departamento": "Cabañas",
   "Municipio": "Cabañas Este",
   "Distrito": "Victoria"
  },
  {
+  "Id": 22,
   "Departamento": "Chalatenango",
   "Municipio": "Chalatenango Centro",
   "Distrito": "Agua Caliente"
  },
  {
+  "Id": 23,
   "Departamento": "Chalatenango",
   "Municipio": "Chalatenango Sur",
   "Distrito": "Arcatao"
  },
  {
+  "Id": 24,
   "Departamento": "Chalatenango",
   "Municipio": "Chalatenango Sur",
   "Distrito": "Azacualpa"
  },
  {
+  "Id": 25,
   "Departamento": "Chalatenango",
   "Municipio": "Chalatenango Sur",
   "Distrito": "Chalatenango"
  },
  {
+  "Id": 26,
   "Departamento": "Chalatenango",
   "Municipio": "Chalatenango Norte",
   "Distrito": "Citalá"
  },
  {
+  "Id": 27,
   "Departamento": "Chalatenango",
   "Municipio": "Chalatenango Sur",
   "Distrito": "Comalapa"
  },
  {
+  "Id": 28,
   "Departamento": "Chalatenango",
   "Municipio": "Chalatenango Sur",
   "Distrito": "Concepción Quezaltepeque"
  },
  {
+  "Id": 29,
   "Departamento": "Chalatenango",
   "Municipio": "Chalatenango Centro",
   "Distrito": "Dulce Nombre De María"
  },
  {
+  "Id": 30,
   "Departamento": "Chalatenango",
   "Municipio": "Chalatenango Sur",
   "Distrito": "El Carrizal"
  },
  {
+  "Id": 31,
   "Departamento": "Chalatenango",
   "Municipio": "Chalatenango Centro",
   "Distrito": "El Paraíso"
  },
  {
+  "Id": 32,
   "Departamento": "Chalatenango",
   "Municipio": "Chalatenango Sur",
   "Distrito": "La Laguna"
  },
  {
+  "Id": 33,
   "Departamento": "Chalatenango",
   "Municipio": "Chalatenango Norte",
   "Distrito": "La Palma"
  },
  {
+  "Id": 34,
   "Departamento": "Chalatenango",
   "Municipio": "Chalatenango Centro",
   "Distrito": "La Reina"
  },
  {
+  "Id": 35,
   "Departamento": "Chalatenango",
   "Municipio": "Chalatenango Sur",
   "Distrito": "Las Vueltas"
  },
  {
+  "Id": 36,
   "Departamento": "Chalatenango",
   "Municipio": "Chalatenango Sur",
   "Distrito": "Nombre De Jesús"
  },
  {
+  "Id": 37,
   "Departamento": "Chalatenango",
   "Municipio": "Chalatenango Centro",
   "Distrito": "Nueva Concepción"
  },
  {
+  "Id": 38,
   "Departamento": "Chalatenango",
   "Municipio": "Chalatenango Sur",
   "Distrito": "Nueva Trinidad"
  },
  {
+  "Id": 39,
   "Departamento": "Chalatenango",
   "Municipio": "Chalatenango Sur",
   "Distrito": "Ojos De Agua"
  },
  {
+  "Id": 40,
   "Departamento": "Chalatenango",
   "Municipio": "Chalatenango Sur",
   "Distrito": "Potonico"
  },
  {
+  "Id": 41,
   "Departamento": "Chalatenango",
   "Municipio": "Chalatenango Sur",
   "Distrito": "San Antonio De La Cruz"
  },
  {
+  "Id": 42,
   "Departamento": "Chalatenango",
   "Municipio": "Chalatenango Sur",
   "Distrito": "San Antonio Los Ranchos"
  },
  {
+  "Id": 43,
   "Departamento": "Chalatenango",
   "Municipio": "Chalatenango Centro",
   "Distrito": "San Fernando"
  },
  {
+  "Id": 44,
   "Departamento": "Chalatenango",
   "Municipio": "Chalatenango Sur",
   "Distrito": "San Francisco Lempa"
  },
  {
+  "Id": 45,
   "Departamento": "Chalatenango",
   "Municipio": "Chalatenango Centro",
   "Distrito": "San Francisco Morazán"
  },
  {
+  "Id": 46,
   "Departamento": "Chalatenango",
   "Municipio": "Chalatenango Norte",
   "Distrito": "San Ignacio"
  },
  {
+  "Id": 47,
   "Departamento": "Chalatenango",
   "Municipio": "Chalatenango Sur",
   "Distrito": "San Isidro Labrador"
  },
  {
+  "Id": 48,
   "Departamento": "Chalatenango",
   "Municipio": "Chalatenango Sur",
   "Distrito": "San José Cancasque"
  },
  {
+  "Id": 49,
   "Departamento": "Chalatenango",
   "Municipio": "Chalatenango Sur",
   "Distrito": "San José Las Flores"
  },
  {
+  "Id": 50,
   "Departamento": "Chalatenango",
   "Municipio": "Chalatenango Sur",
   "Distrito": "San Luis Del Carmen"
  },
  {
+  "Id": 51,
   "Departamento": "Chalatenango",
   "Municipio": "Chalatenango Sur",
   "Distrito": "San Miguel De Mercedes"
  },
  {
+  "Id": 52,
   "Departamento": "Chalatenango",
   "Municipio": "Chalatenango Centro",
   "Distrito": "San Rafael"
  },
  {
+  "Id": 53,
   "Departamento": "Chalatenango",
   "Municipio": "Chalatenango Centro",
   "Distrito": "Santa Rita"
  },
  {
+  "Id": 54,
   "Departamento": "Chalatenango",
   "Municipio": "Chalatenango Centro",
   "Distrito": "Tejutla"
  },
  {
+  "Id": 55,
   "Departamento": "Cuscatlán",
   "Municipio": "Cuscatlán Sur",
   "Distrito": "Candelaria"
  },
  {
+  "Id": 56,
   "Departamento": "Cuscatlán",
   "Municipio": "Cuscatlán Sur",
   "Distrito": "Cojutepeque"
  },
  {
+  "Id": 57,
   "Departamento": "Cuscatlán",
   "Municipio": "Cuscatlán Sur",
   "Distrito": "El Carmen"
  },
  {
+  "Id": 58,
   "Departamento": "Cuscatlán",
   "Municipio": "Cuscatlán Sur",
   "Distrito": "El Rosario"
  },
  {
+  "Id": 59,
   "Departamento": "Cuscatlán",
   "Municipio": "Cuscatlán Sur",
   "Distrito": "Monte San Juan"
  },
  {
+  "Id": 60,
   "Departamento": "Cuscatlán",
   "Municipio": "Cuscatlán Norte",
   "Distrito": "Oratorio De Concepción"
  },
  {
+  "Id": 61,
   "Departamento": "Cuscatlán",
   "Municipio": "Cuscatlán Norte",
   "Distrito": "San Bartolomé Perulapía"
  },
  {
+  "Id": 62,
   "Departamento": "Cuscatlán",
   "Municipio": "Cuscatlán Sur",
   "Distrito": "San Cristóbal"
  },
  {
+  "Id": 63,
   "Departamento": "Cuscatlán",
   "Municipio": "Cuscatlán Norte",
   "Distrito": "San José Guayabal"
  },
  {
+  "Id": 64,
   "Departamento": "Cuscatlán",
   "Municipio": "Cuscatlán Norte",
   "Distrito": "San Pedro Perulapán"
  },
  {
+  "Id": 65,
   "Departamento": "Cuscatlán",
   "Municipio": "Cuscatlán Sur",
   "Distrito": "San Rafael Cedros"
  },
  {
+  "Id": 66,
   "Departamento": "Cuscatlán",
   "Municipio": "Cuscatlán Sur",
   "Distrito": "San Ramón"
  },
  {
+  "Id": 67,
   "Departamento": "Cuscatlán",
   "Municipio": "Cuscatlán Sur",
   "Distrito": "Santa Cruz Analquito"
  },
  {
+  "Id": 68,
   "Departamento": "Cuscatlán",
   "Municipio": "Cuscatlán Sur",
   "Distrito": "Santa Cruz Michapa"
  },
  {
+  "Id": 69,
   "Departamento": "Cuscatlán",
   "Municipio": "Cuscatlán Norte",
   "Distrito": "Suchitoto"
  },
  {
+  "Id": 70,
   "Departamento": "Cuscatlán",
   "Municipio": "Cuscatlán Sur",
   "Distrito": "Tenancingo"
  },
  {
+  "Id": 71,
   "Departamento": "La Libertad",
   "Municipio": "La Libertad Este",
   "Distrito": "Antiguo Cuscatlán"
  },
  {
+  "Id": 72,
   "Departamento": "La Libertad",
   "Municipio": "La Libertad Costa",
   "Distrito": "Chiltiupán"
  },
  {
+  "Id": 73,
   "Departamento": "La Libertad",
   "Municipio": "La Libertad Centro",
   "Distrito": "Ciudad Arce"
  },
  {
+  "Id": 74,
   "Departamento": "La Libertad",
   "Municipio": "La Libertad Oeste",
   "Distrito": "Colón"
  },
  {
+  "Id": 75,
   "Departamento": "La Libertad",
   "Municipio": "La Libertad Sur",
   "Distrito": "Comasagua"
  },
  {
+  "Id": 76,
   "Departamento": "La Libertad",
   "Municipio": "La Libertad Este",
   "Distrito": "Huizúcar"
  },
  {
+  "Id": 77,
   "Departamento": "La Libertad",
   "Municipio": "La Libertad Oeste",
   "Distrito": "Jayaque"
  },
  {
+  "Id": 78,
   "Departamento": "La Libertad",
   "Municipio": "La Libertad Costa",
   "Distrito": "Jicalapa"
  },
  {
+  "Id": 79,
   "Departamento": "La Libertad",
   "Municipio": "La Libertad Costa",
   "Distrito": "La Libertad"
  },
  {
+  "Id": 80,
   "Departamento": "La Libertad",
   "Municipio": "La Libertad Este",
   "Distrito": "Nuevo Cuscatlán"
  },
  {
+  "Id": 81,
   "Departamento": "La Libertad",
   "Municipio": "La Libertad Norte",
   "Distrito": "Quezaltepeque"
  },
  {
+  "Id": 82,
   "Departamento": "La Libertad",
   "Municipio": "La Libertad Oeste",
   "Distrito": "Sacacoyo"
  },
  {
+  "Id": 83,
   "Departamento": "La Libertad",
   "Municipio": "La Libertad Este",
   "Distrito": "San José Villanueva"
  },
  {
+  "Id": 84,
   "Departamento": "La Libertad",
   "Municipio": "La Libertad Centro",
   "Distrito": "San Juan Opico"
  },
  {
+  "Id": 85,
   "Departamento": "La Libertad",
   "Municipio": "La Libertad Norte",
   "Distrito": "San Matías"
  },
  {
+  "Id": 86,
   "Departamento": "La Libertad",
   "Municipio": "La Libertad Norte",
   "Distrito": "San Pablo Tacachico"
  },
  {
+  "Id": 87,
   "Departamento": "La Libertad",
   "Municipio": "La Libertad Sur",
   "Distrito": "Santa Tecla"
  },
  {
+  "Id": 88,
   "Departamento": "La Libertad",
   "Municipio": "La Libertad Oeste",
   "Distrito": "Talnique"
  },
  {
+  "Id": 89,
   "Departamento": "La Libertad",
   "Municipio": "La Libertad Costa",
   "Distrito": "Tamanique"
  },
  {
+  "Id": 90,
   "Departamento": "La Libertad",
   "Municipio": "La Libertad Costa",
   "Distrito": "Teotepeque"
  },
  {
+  "Id": 91,
   "Departamento": "La Libertad",
   "Municipio": "La Libertad Oeste",
   "Distrito": "Tepecoyo"
  },
  {
+  "Id": 92,
   "Departamento": "La Libertad",
   "Municipio": "La Libertad Este",
   "Distrito": "Zaragoza"
  },
  {
+  "Id": 93,
   "Departamento": "La Paz",
   "Municipio": "La Paz Oeste",
   "Distrito": "Cuyultitán"
  },
  {
+  "Id": 94,
   "Departamento": "La Paz",
   "Municipio": "La Paz Centro",
   "Distrito": "El Rosario"
  },
  {
+  "Id": 95,
   "Departamento": "La Paz",
   "Municipio": "La Paz Centro",
   "Distrito": "Jerusalén"
  },
  {
+  "Id": 96,
   "Departamento": "La Paz",
   "Municipio": "La Paz Centro",
   "Distrito": "Mercedes La Ceiba"
  },
  {
+  "Id": 97,
   "Departamento": "La Paz",
   "Municipio": "La Paz Oeste",
   "Distrito": "Olocuilta"
  },
  {
+  "Id": 98,
   "Departamento": "La Paz",
   "Municipio": "La Paz Centro",
   "Distrito": "Paraíso De Osorio"
  },
  {
+  "Id": 99,
   "Departamento": "La Paz",
   "Municipio": "La Paz Centro",
   "Distrito": "San Antonio Masahuat"
  },
  {
+  "Id": 100,
   "Departamento": "La Paz",
   "Municipio": "La Paz Centro",
   "Distrito": "San Emigdio"
  },
  {
+  "Id": 101,
   "Departamento": "La Paz",
   "Municipio": "La Paz Oeste",
   "Distrito": "San Francisco Chinameca"
  },
  {
+  "Id": 102,
   "Departamento": "La Paz",
   "Municipio": "La Paz Este",
   "Distrito": "San Juan Nonualco"
  },
  {
+  "Id": 103,
   "Departamento": "La Paz",
   "Municipio": "La Paz Oeste",
   "Distrito": "San Juan Talpa"
  },
  {
+  "Id": 104,
   "Departamento": "La Paz",
   "Municipio": "La Paz Centro",
   "Distrito": "San Juan Tepezontes"
  },
  {
+  "Id": 105,
   "Departamento": "La Paz",
   "Municipio": "La Paz Centro",
   "Distrito": "San Luis La Herradura"
  },
  {
+  "Id": 106,
   "Departamento": "La Paz",
   "Municipio": "La Paz Oeste",
   "Distrito": "San Luis Talpa"
  },
  {
+  "Id": 107,
   "Departamento": "La Paz",
   "Municipio": "La Paz Centro",
   "Distrito": "San Miguel Tepezontes"
  },
  {
+  "Id": 108,
   "Departamento": "La Paz",
   "Municipio": "La Paz Oeste",
   "Distrito": "San Pedro Masahuat"
  },
  {
+  "Id": 109,
   "Departamento": "La Paz",
   "Municipio": "La Paz Centro",
   "Distrito": "San Pedro Nonualco"
  },
  {
+  "Id": 110,
   "Departamento": "La Paz",
   "Municipio": "La Paz Este",
   "Distrito": "San Rafael Obrajuelo"
  },
  {
+  "Id": 111,
   "Departamento": "La Paz",
   "Municipio": "La Paz Centro",
   "Distrito": "Santa María Ostuma"
  },
  {
+  "Id": 112,
   "Departamento": "La Paz",
   "Municipio": "La Paz Centro",
   "Distrito": "Santiago Nonualco"
  },
  {
+  "Id": 113,
   "Departamento": "La Paz",
   "Municipio": "La Paz Oeste",
   "Distrito": "Tapalhuaca"
  },
  {
+  "Id": 114,
   "Departamento": "La Paz",
   "Municipio": "La Paz Este",
   "Distrito": "Zacatecoluca"
  },
  {
+  "Id": 115,
   "Departamento": "La Unión",
   "Municipio": "La Unión Norte",
   "Distrito": "Anamorós"
  },
  {
+  "Id": 116,
   "Departamento": "La Unión",
   "Municipio": "La Unión Norte",
   "Distrito": "Bolívar"
  },
  {
+  "Id": 117,
   "Departamento": "La Unión",
   "Municipio": "La Unión Norte",
   "Distrito": "Concepción De Oriente"
  },
  {
+  "Id": 118,
   "Departamento": "La Unión",
   "Municipio": "La Unión Sur",
   "Distrito": "Conchagua"
  },
  {
+  "Id": 119,
   "Departamento": "La Unión",
   "Municipio": "La Unión Sur",
   "Distrito": "El Carmen"
  },
  {
+  "Id": 120,
   "Departamento": "La Unión",
   "Municipio": "La Unión Norte",
   "Distrito": "El Sauce"
  },
  {
+  "Id": 121,
   "Departamento": "La Unión",
   "Municipio": "La Unión Sur",
   "Distrito": "Intipucá"
  },
  {
+  "Id": 122,
   "Departamento": "La Unión",
   "Municipio": "La Unión Sur",
   "Distrito": "La Unión"
  },
  {
+  "Id": 123,
   "Departamento": "La Unión",
   "Municipio": "La Unión Norte",
   "Distrito": "Lislique"
  },
  {
+  "Id": 124,
   "Departamento": "La Unión",
   "Municipio": "La Unión Sur",
   "Distrito": "Meanguera Del Golfo"
  },
  {
+  "Id": 125,
   "Departamento": "La Unión",
   "Municipio": "La Unión Norte",
   "Distrito": "Nueva Esparta"
  },
  {
+  "Id": 126,
   "Departamento": "La Unión",
   "Municipio": "La Unión Norte",
   "Distrito": "Pasaquina"
  },
  {
+  "Id": 127,
   "Departamento": "La Unión",
   "Municipio": "La Unión Norte",
   "Distrito": "Polorós"
  },
  {
+  "Id": 128,
   "Departamento": "La Unión",
   "Municipio": "La Unión Sur",
   "Distrito": "San Alejo"
  },
  {
+  "Id": 129,
   "Departamento": "La Unión",
   "Municipio": "La Unión Norte",
   "Distrito": "San José La Fuente"
  },
  {
+  "Id": 130,
   "Departamento": "La Unión",
   "Municipio": "La Unión Norte",
   "Distrito": "Santa Rosa De Lima"
  },
  {
+  "Id": 131,
   "Departamento": "La Unión",
   "Municipio": "La Unión Sur",
   "Distrito": "Yayantique"
  },
  {
+  "Id": 132,
   "Departamento": "La Unión",
   "Municipio": "La Unión Sur",
   "Distrito": "Yucuaiquín"
  },
  {
+  "Id": 133,
   "Departamento": "Morazán",
   "Municipio": "Morazán Norte",
   "Distrito": "Arambala"
  },
  {
+  "Id": 134,
   "Departamento": "Morazán",
   "Municipio": "Morazán Norte",
   "Distrito": "Cacaopera"
  },
  {
+  "Id": 135,
   "Departamento": "Morazán",
   "Municipio": "Morazán Sur",
   "Distrito": "Chilanga"
  },
  {
+  "Id": 136,
   "Departamento": "Morazán",
   "Municipio": "Morazán Norte",
   "Distrito": "Corinto"
  },
  {
+  "Id": 137,
   "Departamento": "Morazán",
   "Municipio": "Morazán Sur",
   "Distrito": "Delicias De Concepción"
  },
  {
+  "Id": 138,
   "Departamento": "Morazán",
   "Municipio": "Morazán Sur",
   "Distrito": "El Divisadero"
  },
  {
+  "Id": 139,
   "Departamento": "Morazán",
   "Municipio": "Morazán Norte",
   "Distrito": "El Rosario"
  },
  {
+  "Id": 140,
   "Departamento": "Morazán",
   "Municipio": "Morazán Sur",
   "Distrito": "Gualococti"
  },
  {
+  "Id": 141,
   "Departamento": "Morazán",
   "Municipio": "Morazán Sur",
   "Distrito": "Guatajiagua"
  },
  {
+  "Id": 142,
   "Departamento": "Morazán",
   "Municipio": "Morazán Norte",
   "Distrito": "Joateca"
  },
  {
+  "Id": 143,
   "Departamento": "Morazán",
   "Municipio": "Morazán Norte",
   "Distrito": "Jocoaitique"
  },
  {
+  "Id": 144,
   "Departamento": "Morazán",
   "Municipio": "Morazán Sur",
   "Distrito": "Jocoro"
  },
  {
+  "Id": 145,
   "Departamento": "Morazán",
   "Municipio": "Morazán Sur",
   "Distrito": "Lolotiquillo"
  },
  {
+  "Id": 146,
   "Departamento": "Morazán",
   "Municipio": "Morazán Norte",
   "Distrito": "Meanguera"
  },
  {
+  "Id": 147,
   "Departamento": "Morazán",
   "Municipio": "Morazán Sur",
   "Distrito": "Osicala"
  },
  {
+  "Id": 148,
   "Departamento": "Morazán",
   "Municipio": "Morazán Norte",
   "Distrito": "Perquín"
  },
  {
+  "Id": 149,
   "Departamento": "Morazán",
   "Municipio": "Morazán Sur",
   "Distrito": "San Carlos"
  },
  {
+  "Id": 150,
   "Departamento": "Morazán",
   "Municipio": "Morazán Norte",
   "Distrito": "San Fernando"
  },
  {
+  "Id": 151,
   "Departamento": "Morazán",
   "Municipio": "Morazán Sur",
   "Distrito": "San Francisco Gotera"
  },
  {
+  "Id": 152,
   "Departamento": "Morazán",
   "Municipio": "Morazán Norte",
   "Distrito": "San Isidro"
  },
  {
+  "Id": 153,
   "Departamento": "Morazán",
   "Municipio": "Morazán Sur",
   "Distrito": "San Simón"
  },
  {
+  "Id": 154,
   "Departamento": "Morazán",
   "Municipio": "Morazán Sur",
   "Distrito": "Sensembra"
  },
  {
+  "Id": 155,
   "Departamento": "Morazán",
   "Municipio": "Morazán Sur",
   "Distrito": "Sociedad"
  },
  {
+  "Id": 156,
   "Departamento": "Morazán",
   "Municipio": "Morazán Norte",
   "Distrito": "Torola"
  },
  {
+  "Id": 157,
   "Departamento": "Morazán",
   "Municipio": "Morazán Sur",
   "Distrito": "Yamabal"
  },
  {
+  "Id": 158,
   "Departamento": "Morazán",
   "Municipio": "Morazán Sur",
   "Distrito": "Yoloaiquín"
  },
  {
+  "Id": 159,
   "Departamento": "San Miguel",
   "Municipio": "San Miguel Norte",
   "Distrito": "Carolina"
  },
  {
+  "Id": 160,
   "Departamento": "San Miguel",
   "Municipio": "San Miguel Norte",
   "Distrito": "Chapeltique"
  },
  {
+  "Id": 161,
   "Departamento": "San Miguel",
   "Municipio": "San Miguel Oeste",
   "Distrito": "Chinameca"
  },
  {
+  "Id": 162,
   "Departamento": "San Miguel",
   "Municipio": "San Miguel Centro",
   "Distrito": "Chirilagua"
  },
  {
+  "Id": 163,
   "Departamento": "San Miguel",
   "Municipio": "San Miguel Norte",
   "Distrito": "Ciudad Barrios"
  },
  {
+  "Id": 164,
   "Departamento": "San Miguel",
   "Municipio": "San Miguel Centro",
   "Distrito": "Comacarán"
  },
  {
+  "Id": 165,
   "Departamento": "San Miguel",
   "Municipio": "San Miguel Oeste",
   "Distrito": "El Tránsito"
  },
  {
+  "Id": 166,
   "Departamento": "San Miguel",
   "Municipio": "San Miguel Oeste",
   "Distrito": "Lolotique"
  },
  {
+  "Id": 167,
   "Departamento": "San Miguel",
   "Municipio": "San Miguel Centro",
   "Distrito": "Moncagua"
  },
  {
+  "Id": 168,
   "Departamento": "San Miguel",
   "Municipio": "San Miguel Oeste",
   "Distrito": "Nueva Guadalupe"
  },
  {
+  "Id": 169,
   "Departamento": "San Miguel",
   "Municipio": "San Miguel Norte",
   "Distrito": "Nuevo Edén De San Juan"
  },
  {
+  "Id": 170,
   "Departamento": "San Miguel",
   "Municipio": "San Miguel Centro",
   "Distrito": "Quelepa"
  },
  {
+  "Id": 171,
   "Departamento": "San Miguel",
   "Municipio": "San Miguel Norte",
   "Distrito": "San Antonio Del Mosco"
  },
  {
+  "Id": 172,
   "Departamento": "San Miguel",
   "Municipio": "San Miguel Norte",
   "Distrito": "San Gerardo"
  },
  {
+  "Id": 173,
   "Departamento": "San Miguel",
   "Municipio": "San Miguel Oeste",
   "Distrito": "San Jorge"
  },
  {
+  "Id": 174,
   "Departamento": "San Miguel",
   "Municipio": "San Miguel Norte",
   "Distrito": "San Luis De La Reina"
  },
  {
+  "Id": 175,
   "Departamento": "San Miguel",
   "Municipio": "San Miguel Centro",
   "Distrito": "San Miguel"
  },
  {
+  "Id": 176,
   "Departamento": "San Miguel",
   "Municipio": "San Miguel Oeste",
   "Distrito": "San Rafael Oriente"
  },
  {
+  "Id": 177,
   "Departamento": "San Miguel",
   "Municipio": "San Miguel Norte",
   "Distrito": "Sesori"
  },
  {
+  "Id": 178,
   "Departamento": "San Miguel",
   "Municipio": "San Miguel Centro",
   "Distrito": "Uluazapa"
  },
  {
+  "Id": 179,
   "Departamento": "San Salvador",
   "Municipio": "San Salvador Norte",
   "Distrito": "Aguilares"
  },
  {
+  "Id": 180,
   "Departamento": "San Salvador",
   "Municipio": "San Salvador Oeste",
   "Distrito": "Apopa"
  },
  {
+  "Id": 181,
   "Departamento": "San Salvador",
   "Municipio": "San Salvador Centro",
   "Distrito": "Ayutuxtepeque"
  },
  {
+  "Id": 182,
   "Departamento": "San Salvador",
   "Municipio": "San Salvador Centro",
   "Distrito": "Ciudad Delgado"
  },
  {
+  "Id": 183,
   "Departamento": "San Salvador",
   "Municipio": "San Salvador Centro",
   "Distrito": "Cuscatancingo"
  },
  {
+  "Id": 184,
   "Departamento": "San Salvador",
   "Municipio": "San Salvador Norte",
   "Distrito": "El Paisnal"
  },
  {
+  "Id": 185,
   "Departamento": "San Salvador",
   "Municipio": "San Salvador Norte",
   "Distrito": "Guazapa"
  },
  {
+  "Id": 186,
   "Departamento": "San Salvador",
   "Municipio": "San Salvador Este",
   "Distrito": "Ilopango"
  },
  {
+  "Id": 187,
   "Departamento": "San Salvador",
   "Municipio": "San Salvador Centro",
   "Distrito": "Mejicanos"
  },
  {
+  "Id": 188,
   "Departamento": "San Salvador",
   "Municipio": "San Salvador Oeste",
   "Distrito": "Nejapa"
  },
  {
+  "Id": 189,
   "Departamento": "San Salvador",
   "Municipio": "San Salvador Sur",
   "Distrito": "Panchimalco"
  },
  {
+  "Id": 190,
   "Departamento": "San Salvador",
   "Municipio": "San Salvador Sur",
   "Distrito": "Rosario De Mora"
  },
  {
+  "Id": 191,
   "Departamento": "San Salvador",
   "Municipio": "San Salvador Sur",
   "Distrito": "San Marcos"
  },
  {
+  "Id": 192,
   "Departamento": "San Salvador",
   "Municipio": "San Salvador Este",
   "Distrito": "San Martín"
  },
  {
+  "Id": 193,
   "Departamento": "San Salvador",
   "Municipio": "San Salvador Centro",
   "Distrito": "San Salvador"
  },
  {
+  "Id": 194,
   "Departamento": "San Salvador",
   "Municipio": "San Salvador Sur",
   "Distrito": "Santiago Texacuangos"
  },
  {
+  "Id": 195,
   "Departamento": "San Salvador",
   "Municipio": "San Salvador Sur",
   "Distrito": "Santo Tomás"
  },
  {
+  "Id": 196,
   "Departamento": "San Salvador",
   "Municipio": "San Salvador Este",
   "Distrito": "Soyapango"
  },
  {
+  "Id": 197,
   "Departamento": "San Salvador",
   "Municipio": "San Salvador Este",
   "Distrito": "Tonacatepeque"
  },
  {
+  "Id": 198,
   "Departamento": "San Vicente",
   "Municipio": "San Vicente Norte",
   "Distrito": "Apastepeque"
  },
  {
+  "Id": 199,
   "Departamento": "San Vicente",
   "Municipio": "San Vicente Sur",
   "Distrito": "Guadalupe"
  },
  {
+  "Id": 200,
   "Departamento": "San Vicente",
   "Municipio": "San Vicente Sur",
   "Distrito": "San Cayetano Istepeque"
  },
  {
+  "Id": 201,
   "Departamento": "San Vicente",
   "Municipio": "San Vicente Norte",
   "Distrito": "San Esteban Catarina"
  },
  {
+  "Id": 202,
   "Departamento": "San Vicente",
   "Municipio": "San Vicente Norte",
   "Distrito": "San Ildefonso"
  },
  {
+  "Id": 203,
   "Departamento": "San Vicente",
   "Municipio": "San Vicente Norte",
   "Distrito": "San Lorenzo"
  },
  {
+  "Id": 204,
   "Departamento": "San Vicente",
   "Municipio": "San Vicente Norte",
   "Distrito": "San Sebastián"
  },
  {
+  "Id": 205,
   "Departamento": "San Vicente",
   "Municipio": "San Vicente Sur",
   "Distrito": "San Vicente"
  },
  {
+  "Id": 206,
   "Departamento": "San Vicente",
   "Municipio": "San Vicente Norte",
   "Distrito": "Santa Clara"
  },
  {
+  "Id": 207,
   "Departamento": "San Vicente",
   "Municipio": "San Vicente Norte",
   "Distrito": "Santo Domingo"
  },
  {
+  "Id": 208,
   "Departamento": "San Vicente",
   "Municipio": "San Vicente Sur",
   "Distrito": "Tecoluca"
  },
  {
+  "Id": 209,
   "Departamento": "San Vicente",
   "Municipio": "San Vicente Sur",
   "Distrito": "Tepetitán"
  },
  {
+  "Id": 210,
   "Departamento": "San Vicente",
   "Municipio": "San Vicente Sur",
   "Distrito": "Verapaz"
  },
  {
+  "Id": 211,
   "Departamento": "Santa Ana",
   "Municipio": "Santa Ana Oeste",
   "Distrito": "Candelaria De La Frontera"
  },
  {
+  "Id": 212,
   "Departamento": "Santa Ana",
   "Municipio": "Santa Ana Oeste",
   "Distrito": "Chalchuapa"
  },
  {
+  "Id": 213,
   "Departamento": "Santa Ana",
   "Municipio": "Santa Ana Este",
   "Distrito": "Coatepeque"
  },
  {
+  "Id": 214,
   "Departamento": "Santa Ana",
   "Municipio": "Santa Ana Este",
   "Distrito": "El Congo"
  },
  {
+  "Id": 215,
   "Departamento": "Santa Ana",
   "Municipio": "Santa Ana Oeste",
   "Distrito": "El Porvenir"
  },
  {
+  "Id": 216,
   "Departamento": "Santa Ana",
   "Municipio": "Santa Ana Norte",
   "Distrito": "Masahuat"
  },
  {
+  "Id": 217,
   "Departamento": "Santa Ana",
   "Municipio": "Santa Ana Norte",
   "Distrito": "Metapán"
  },
  {
+  "Id": 218,
   "Departamento": "Santa Ana",
   "Municipio": "Santa Ana Oeste",
   "Distrito": "San Antonio Pajonal"
  },
  {
+  "Id": 219,
   "Departamento": "Santa Ana",
   "Municipio": "Santa Ana Oeste",
   "Distrito": "San Sebastián Salitrillo"
  },
  {
+  "Id": 220,
   "Departamento": "Santa Ana",
   "Municipio": "Santa Ana Centro",
   "Distrito": "Santa Ana"
  },
  {
+  "Id": 221,
   "Departamento": "Santa Ana",
   "Municipio": "Santa Ana Norte",
   "Distrito": "Santa Rosa Guachipilín"
  },
  {
+  "Id": 222,
   "Departamento": "Santa Ana",
   "Municipio": "Santa Ana Oeste",
   "Distrito": "Santiago De La Frontera"
  },
  {
+  "Id": 223,
   "Departamento": "Santa Ana",
   "Municipio": "Santa Ana Norte",
   "Distrito": "Texistepeque"
  },
  {
+  "Id": 224,
   "Departamento": "Sonsonate",
   "Municipio": "Sonsonate Oeste",
   "Distrito": "Acajutla"
  },
  {
+  "Id": 225,
   "Departamento": "Sonsonate",
   "Municipio": "Sonsonate Este",
   "Distrito": "Armenia"
  },
  {
+  "Id": 226,
   "Departamento": "Sonsonate",
   "Municipio": "Sonsonate Este",
   "Distrito": "Caluco"
  },
  {
+  "Id": 227,
   "Departamento": "Sonsonate",
   "Municipio": "Sonsonate Este",
   "Distrito": "Cuisnahuat"
  },
  {
+  "Id": 228,
   "Departamento": "Sonsonate",
   "Municipio": "Sonsonate Este",
   "Distrito": "Izalco"
  },
  {
+  "Id": 229,
   "Departamento": "Sonsonate",
   "Municipio": "Sonsonate Norte",
   "Distrito": "Juayúa"
  },
  {
+  "Id": 230,
   "Departamento": "Sonsonate",
   "Municipio": "Sonsonate Norte",
   "Distrito": "Nahuizalco"
  },
  {
+  "Id": 231,
   "Departamento": "Sonsonate",
   "Municipio": "Sonsonate Centro",
   "Distrito": "Nahulingo"
  },
  {
+  "Id": 232,
   "Departamento": "Sonsonate",
   "Municipio": "Sonsonate Norte",
   "Distrito": "Salcoatitán"
  },
  {
+  "Id": 233,
   "Departamento": "Sonsonate",
   "Municipio": "Sonsonate Centro",
   "Distrito": "San Antonio Del Monte"
  },
  {
+  "Id": 234,
   "Departamento": "Sonsonate",
   "Municipio": "Sonsonate Este",
   "Distrito": "San Julián"
  },
  {
+  "Id": 235,
   "Departamento": "Sonsonate",
   "Municipio": "Sonsonate Norte",
   "Distrito": "Santa Catarina Masahuat"
  },
  {
+  "Id": 236,
   "Departamento": "Sonsonate",
   "Municipio": "Sonsonate Este",
   "Distrito": "Santa Isabel Ishuatán"
  },
  {
+  "Id": 237,
   "Departamento": "Sonsonate",
   "Municipio": "Sonsonate Centro",
   "Distrito": "Santo Domingo De Guzmán"
  },
  {
+  "Id": 238,
   "Departamento": "Sonsonate",
   "Municipio": "Sonsonate Centro",
   "Distrito": "Sonsonate"
  },
  {
+  "Id": 239,
   "Departamento": "Sonsonate",
   "Municipio": "Sonsonate Centro",
   "Distrito": "Sonzacate"
  },
  {
+  "Id": 240,
   "Departamento": "Usulután",
   "Municipio": "Usulután Norte",
   "Distrito": "Alegría"
  },
  {
+  "Id": 241,
   "Departamento": "Usulután",
   "Municipio": "Usulután Norte",
   "Distrito": "Berlín"
  },
  {
+  "Id": 242,
   "Departamento": "Usulután",
   "Municipio": "Usulután Este",
   "Distrito": "California"
  },
  {
+  "Id": 243,
   "Departamento": "Usulután",
   "Municipio": "Usulután Este",
   "Distrito": "Concepción Batres"
  },
  {
+  "Id": 244,
   "Departamento": "Usulután",
   "Municipio": "Usulután Norte",
   "Distrito": "El Triunfo"
  },
  {
+  "Id": 245,
   "Departamento": "Usulután",
   "Municipio": "Usulután Este",
   "Distrito": "Ereguayquín"
  },
  {
+  "Id": 246,
   "Departamento": "Usulután",
   "Municipio": "Usulután Norte",
   "Distrito": "Estanzuelas"
  },
  {
+  "Id": 247,
   "Departamento": "Usulután",
   "Municipio": "Usulután Oeste",
   "Distrito": "Jiquilisco"
  },
  {
+  "Id": 248,
   "Departamento": "Usulután",
   "Municipio": "Usulután Norte",
   "Distrito": "Jucuapa"
  },
  {
+  "Id": 249,
   "Departamento": "Usulután",
   "Municipio": "Usulután Este",
   "Distrito": "Jucuarán"
  },
  {
+  "Id": 250,
   "Departamento": "Usulután",
   "Municipio": "Usulután Norte",
   "Distrito": "Mercedes Umaña"
  },
  {
+  "Id": 251,
   "Departamento": "Usulután",
   "Municipio": "Usulután Norte",
   "Distrito": "Nueva Granada"
  },
  {
+  "Id": 252,
   "Departamento": "Usulután",
   "Municipio": "Usulután Este",
   "Distrito": "Ozatlán"
  },
  {
+  "Id": 253,
   "Departamento": "Usulután",
   "Municipio": "Usulután Oeste",
   "Distrito": "Puerto El Triunfo"
  },
  {
+  "Id": 254,
   "Departamento": "Usulután",
   "Municipio": "Usulután Oeste",
   "Distrito": "San Agustín"
  },
  {
+  "Id": 255,
   "Departamento": "Usulután",
   "Municipio": "Usulután Norte",
   "Distrito": "San Buenaventura"
  },
  {
+  "Id": 256,
   "Departamento": "Usulután",
   "Municipio": "Usulután Este",
   "Distrito": "San Dionisio"
  },
  {
+  "Id": 257,
   "Departamento": "Usulután",
   "Municipio": "Usulután Oeste",
   "Distrito": "San Francisco Javier"
  },
  {
+  "Id": 258,
   "Departamento": "Usulután",
   "Municipio": "Usulután Este",
   "Distrito": "Santa Elena"
  },
  {
+  "Id": 259,
   "Departamento": "Usulután",
   "Municipio": "Usulután Este",
   "Distrito": "Santa María"
  },
  {
+  "Id": 260,
   "Departamento": "Usulután",
   "Municipio": "Usulután Norte",
   "Distrito": "Santiago De María"
  },
  {
+  "Id": 261,
   "Departamento": "Usulután",
   "Municipio": "Usulután Este",
   "Distrito": "Tecapán"
  },
  {
+  "Id": 262,
   "Departamento": "Usulután",
   "Municipio": "Usulután Este",
   "Distrito": "Usulután"
