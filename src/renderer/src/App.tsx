@@ -1,20 +1,14 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
 import { useState } from 'react'
 import SearchBar from './components/SearchBar'
+import municipios_json from '@renderer/data/municipios_sv.json'
 
 function App(): JSX.Element {
-  const [municipios, setMunicipios] = useState([
-    {
-      Id: 0,
-      Departamento: '',
-      Municipio: '',
-      Distrito: ''
-    }
-  ])
+  const [municipios, setMunicipios] = useState(municipios_json)
 
   return (
     <div className="bg-base-200 h-screen text-base-content overflow-y-auto">
-      <div className="block relative bg-beachImage bg-cover bg-center bg-no-repeat text-4xl text-center font-serif font-bold h-72 w-full overflow-hidden rounded-b-2xl">
+      <div className="block relative background bg-cover bg-center bg-no-repeat text-4xl text-center font-serif font-bold h-72 w-full overflow-hidden rounded-b-2xl">
         <div className="absolute flex items-center z-30 h-full w-full bg-gradient-to-b from-gray-600">
           <label className="w-full text-center text-5xlxl font-sans uppercase">
             distribución de distritos de El Salvador
@@ -36,9 +30,9 @@ function App(): JSX.Element {
           <tbody>
             {municipios.map((m) => (
               <tr key={m.Id}>
-                <td>{m.Distrito}</td>
-                <td>{m.Municipio}</td>
-                <td>{m.Departamento}</td>
+                <td className="border border-slate-500 p-2 text-left">{m.Distrito}</td>
+                <td className="border border-slate-500 p-2 text-left">{m.Municipio}</td>
+                <td className="border border-slate-500 p-2 text-left">{m.Departamento}</td>
               </tr>
             ))}
           </tbody>
